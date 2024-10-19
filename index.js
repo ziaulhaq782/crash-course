@@ -9,3 +9,7 @@ function sayname() {
 function isAbove18 () {
     return age >= 18
 }
+
+function newFn() {
+    console.log('Hey I am a new fn')
+}
