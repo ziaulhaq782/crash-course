@@ -1,6 +1,6 @@
 const age = 24;
 const name = 'ziaulhaq Nayab'
-const  dob = '01/06/1991'  
+const  dob = '01/06/2000'  
 
 function sayname() {
 <<<<<<< HEAD
