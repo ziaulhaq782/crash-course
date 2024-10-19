@@ -17,3 +17,8 @@ function newFn() {
     console.log('My Name is' + )
 >>>>>>> parent of 820b55b (Added isAbovea 8)
 }
+
+function newFeatureAdd() {
+    console.log('This is a new feat')
+
+}
